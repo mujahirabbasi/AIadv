@@ -19,7 +19,7 @@ This project consists of multiple functionalities integrated into a single scrip
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/project-name.git
+   git clone https://github.com/mujahirabbasi/AIadv.git
 
 
 ## Usage
