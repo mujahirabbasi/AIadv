@@ -1,4 +1,4 @@
-# AI meets Adevertisement
+# AI meets Advertisement
 
 ## Overview
 
